@@ -518,7 +518,7 @@ em {
 
 .xl-page2 .aboutMe .about {
 	width: 100%;
-	height: 16%;
+	height: 20%;
 	text-align: left;
 	padding: 10px 10px 10px 20px;
 	font-weight: 700;
@@ -778,7 +778,7 @@ em {
 	padding-left: 10px;
 	text-align: left;
 	overflow: hidden;
-	letter-spacing: 3px
+	letter-spacing: 3px;
 }
 
 .xl-page5 .P5textBox p {
@@ -807,7 +807,7 @@ em {
 	width: 100%;
 	height: 40%;
 	position: absolute;
-	top: 50%;
+	top: 60%;
 	left: 6%
 }
 

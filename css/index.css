@@ -491,6 +491,7 @@
   text-align: left;
   overflow: hidden;
   letter-spacing: 3px;
+  padding-bottom: 50px;
 }
 .xl-page5 .P5textBox p {
   display: none;
